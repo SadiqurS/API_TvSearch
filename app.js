@@ -15,6 +15,8 @@
 //         }
 //     }
 // }
+
+//better version that clears previous search
 const form = document.querySelector('#searchForm');
 const container = document.getElementById('container');
 
